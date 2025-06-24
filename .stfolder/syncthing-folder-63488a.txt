@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: bootcamp
+created: 2025-06-12T09:48:44+09:00
